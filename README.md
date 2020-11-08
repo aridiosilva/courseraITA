@@ -19,6 +19,10 @@
 - Refacoring is not changes in the code to fix bugs - the processo of fix bugs is inside of TDD Cycle to create a test that will fail showing the bug in the code and then change the code to make the test to pass;
 - Some people misuderstand Refactoring to include only Large-Scale Chanves. Most of all refactoring in the TDD Style are small. Ideally, the small refacotring are applied "mercilessly" enough that large refactoring are rarel needed. But, even when Large-Scale Refactorings are needed, the approach is not "no new features for a month while we refacor", but rayther: refactor as you go, and keep the system running all the time.
 
+## What is Bad Smells or Code Smell?
+
+- Code or Bad smells are usually not bugs; they are not technically incorrect and do not prevent the program from functioning. Instead, they indicate weaknesses in design that may slow down development or increase the risk of bugs or failures in the future. Thus, a code smell is a driver for refactoring.
+
 ## Books Recommended to Read (Refactoring, Bad Smells, Code Smells and TDD)
 
        - Refactoring - Improving the Design of Existing Code  by Martin Fowler  (1st Ed 2002 337 pages Code in Java)
