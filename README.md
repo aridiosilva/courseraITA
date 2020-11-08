@@ -19,4 +19,21 @@
 - Refacoring is not changes in the code to fix bugs - the processo of fix bugs is inside of TDD Cycle to create a test that will fail showing the bug in the code and then change the code to make the test to pass;
 - Some people misuderstand Refactoring to include only Large-Scale Chanves. Most of all refactoring in the TDD Style are small. Ideally, the small refacotring are applied "mercilessly" enough that large refactoring are rarel needed. But, even when Large-Scale Refactorings are needed, the approach is not "no new features for a month while we refacor", but rayther: refactor as you go, and keep the system running all the time.
 
+## Books Recommended to Read Related to Refactoring Technique and Approch and Code Smells
+
+(1) Book Refactoring - Improving the Design of Existing Code 
+    
+    - First Edition  by Martin Fowler - 2002 - 337 pages - This book contains examples of code written in Java 
+    - Second Edition by Martin Fowler - 2019 - 455 Pages - This book contains examples of code written in Javascript
+    
+(2) Book Refactoring-  Ruby Edition by Martin Fowler & Kent Beck · 2009 481 - Pages 
+
+    - Examples of code written in Ruby
+    
+(3) Book Refactoring Workbook - William C. Wake  199 pages 2003 - Examples of Code written in Java
+
+(4) Book Clean Code - A HAndbook of Agile Software Craftsmanship - 462 pages - 2009 
+
+    - Examples of code written in Java
+    
 
