@@ -34,11 +34,11 @@
 
     - Examples of Code written in Java
 
-(4) **Book Clean Code - A Handbook of Agile Software Craftsmanship by Robert C. Martin - 462 pages - 2009 **
+(4) **Book Clean Code - A Handbook of Agile Software Craftsmanship by Robert C. Martin - 462 pages - 2009**
 
     - Examples of code written in Java
     
-(5) ** Book Test-Driven Development By Example by Kent Beck - 137 pages 2002**
+(5) **Book Test-Driven Development By Example by Kent Beck - 137 pages 2002**
 
     - Examples of code written in Java
     
