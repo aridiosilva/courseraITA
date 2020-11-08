@@ -41,15 +41,15 @@
 (5) **Book Test-Driven Development By Example by Kent Beck - 137 pages 2002**
 
     - Examples of code written in Java
-    
+
 (6) **Book Extreme Programming Explored by William C. Wake 159 pages - 2000**
 
-   - Examples of Code written in Java
+    - Examples of Code written in Java
 
 (7) **Book Extreme Programming Installed  by Ron Jeffries and At all - 329 Pages 2000** 
 
-   - Examples of Code written in Java
+    - Examples of Code written in Java
 
-(8) ** Book Agile Modeling: Effective Practices for eXtreme Programming and the Unified Process by Scott Ambler 402 pages 2002**
+(8) **Book Agile Modeling: Effective Practices for eXtreme Programming and the Unified Process by Scott Ambler 402 pages 2002**
     
     
