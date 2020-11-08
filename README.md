@@ -29,7 +29,7 @@ As stated by Martin Fowler we have the following:
 
 ## Approaches to Do Refactorings
 
-(Image - Diagram about the Types of Refactorings - by Aridio Silva Nov-2020.jpg)
+![Relation between AI, ML and DL](https://github.com/aridiosilva/courseraITA/blob/main/Image%20-%20Diagram%20about%20the%20Types%20of%20Refactorings%20-%20by%20Aridio%20Silva%20Nov-2020.jpg?raw=true)
 
 ## Books Recommended to Read (Refactoring, Bad Smells, Code Smells and TDD)
 
