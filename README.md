@@ -2,10 +2,9 @@
 
 ## What is Refactoring?
 
-- "Is a processo of improving the design of existing code (without changing its bhavior)" (Martin Fowler 2003)
+- "Is a processo of improving the design of existing code (without changing its bhavior)" (Martin Fowler 2003);
 
-(if we can idenfity design problems in the code an safe transformations, then we can imporve our code a little bit at time.)
-
+-  if we can idenfity design problems in the code an safe transformations, then we can imporve our code a little bit at time;
 - One ofe the defining aspects of Refactoring is the focus on safe transformations;
 - Refactoring is a step-=by-step processo and the steps are smaller than people typically espect. Most refactorings tend to take a minute to an hour to apply. The average is probably five to ten minutes, teh steps are even smaller. Refactoring works in tiny steps;
 - Refactoring has the goal of "imporve the design of existing code";
