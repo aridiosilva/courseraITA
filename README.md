@@ -23,32 +23,32 @@
 
 (1) **Book Refactoring - Improving the Design of Existing Code**
     
-    - First Edition  by Martin Fowler - 2002 - 337 pages - Examples of code written in Java 
-    - Second Edition by Martin Fowler - 2019 - 455 Pages - Examples of code written in Javascript
+       - First Edition  by Martin Fowler - 2002 - 337 pages - Examples of code written in Java 
+       - Second Edition by Martin Fowler - 2019 - 455 Pages - Examples of code written in Javascript
     
 (2) **Book Refactoring-  Ruby Edition by Martin Fowler & Kent Beck · 2009 481 - Pages**
 
-    - Examples of code written in Ruby
+       - Examples of code written in Ruby
     
 (3) **Book Refactoring Workbook by William C. Wake  199 pages 2003**
 
-    - Examples of Code written in Java
+       - Examples of Code written in Java
 
 (4) **Book Clean Code - A Handbook of Agile Software Craftsmanship by Robert C. Martin - 462 pages - 2009**
 
-    - Examples of code written in Java
+       - Examples of code written in Java
     
 (5) **Book Test-Driven Development By Example by Kent Beck - 137 pages 2002**
 
-    - Examples of code written in Java
+       - Examples of code written in Java
 
 (6) **Book Extreme Programming Explored by William C. Wake 159 pages - 2000**
 
-    - Examples of Code written in Java
+       - Examples of Code written in Java
 
 (7) **Book Extreme Programming Installed  by Ron Jeffries and At all - 329 Pages 2000** 
 
-    - Examples of Code written in Java
+       - Examples of Code written in Java
 
 (8) **Book Agile Modeling: Effective Practices for eXtreme Programming and the Unified Process by Scott Ambler 402 pages 2002**
     
