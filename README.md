@@ -26,7 +26,7 @@
     - First Edition  by Martin Fowler - 2002 - 337 pages - This book contains examples of code written in Java 
     - Second Edition by Martin Fowler - 2019 - 455 Pages - This book contains examples of code written in Javascript
     
-(2) **Book Refactoring-  Ruby Edition by Martin Fowler & Kent Beck · 2009 481 - Pages **
+(2) **Book Refactoring-  Ruby Edition by Martin Fowler & Kent Beck · 2009 481 - Pages**
 
     - Examples of code written in Ruby
     
