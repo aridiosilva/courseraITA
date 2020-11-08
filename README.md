@@ -30,7 +30,9 @@
 
     - Examples of code written in Ruby
     
-(3) Book Refactoring Workbook - William C. Wake  199 pages 2003 - Examples of Code written in Java
+(3) Book Refactoring Workbook - William C. Wake  199 pages 2003 
+
+    - Examples of Code written in Java
 
 (4) Book Clean Code - A HAndbook of Agile Software Craftsmanship - 462 pages - 2009 
 
