@@ -21,20 +21,20 @@
 
 ## Books Recommended to Read Related to Refactoring Technique and Approch and Code Smells
 
-(1) Book Refactoring - Improving the Design of Existing Code 
+(1) **Book Refactoring - Improving the Design of Existing Code**
     
     - First Edition  by Martin Fowler - 2002 - 337 pages - This book contains examples of code written in Java 
     - Second Edition by Martin Fowler - 2019 - 455 Pages - This book contains examples of code written in Javascript
     
-(2) Book Refactoring-  Ruby Edition by Martin Fowler & Kent Beck · 2009 481 - Pages 
+(2) **Book Refactoring-  Ruby Edition by Martin Fowler & Kent Beck · 2009 481 - Pages **
 
     - Examples of code written in Ruby
     
-(3) Book Refactoring Workbook - William C. Wake  199 pages 2003 
+(3) **Book Refactoring Workbook by William C. Wake  199 pages 2003**
 
     - Examples of Code written in Java
 
-(4) Book Clean Code - A HAndbook of Agile Software Craftsmanship - 462 pages - 2009 
+(4) **Book Clean Code - A HAndbook of Agile Software Craftsmanship by Robert C. Martin - 462 pages - 2009 **
 
     - Examples of code written in Java
     
