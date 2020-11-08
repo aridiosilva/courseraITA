@@ -21,9 +21,8 @@
 
 ## Books Recommended to Read (Refactoring, Bad Smells, Code Smells and TDD)
 
-       - Refactoring - Improving the Design of Existing Code  by Martin Fowler   
-              - 1st Edition  2002 - 337 pages - Code in Java 
-              - 2nd Edition  2019 - 455 Pages - Code in Javascript
+       - Refactoring - Improving the Design of Existing Code  by Martin Fowler  (1st Ed 2002 337 pages Code in Java)
+       - Refactoring - Improving the Design of Existing Code  by Martin Fowler  (2nd Edition 2019 455 Pages Code in Javascript)
        - Refactoring-  Ruby Edition by Martin Fowler & Kent Beck 481 Pages 2009 (Code in Ruby)
        - Refactoring Workbook by William C. Wake  199 pages 2003 (Code in Java)
        - Clean Code: A Handbook of Agile Software by Robert C. Martin 462 pages 2009 (Code in Ruby)
