@@ -1,8 +1,8 @@
-# Refactoring - Imporving the Design of Existing Code
+# Refactoring - Improving the Design of Existing Code
 
 ## What is Refactoring?
 
-- "Is a processo of improving the design of existing code (without changing its bhavior)" (Martin Fowler 2003);
+- "Is a processo of improving the design of existing code (without changing its bhavior)" (Martin Fowler 2003 - Creator of Refactoring);
 
 -  if we can idenfity design problems in the code an safe transformations, then we can imporve our code a little bit at time;
 - One ofe the defining aspects of Refactoring is the focus on safe transformations;
