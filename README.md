@@ -27,6 +27,10 @@ As stated by Martin Fowler we have the following:
 - "The best smells are something that's easy to spot and most of time lead you to really interesting problems. Data classes (classes with all data and no behavior) are good examples of this. You look at them and ask yourself what behavior should be in this class. Then you start refactoring to move that behavior in there. Often simple questions and initial refactorings can be the vital step in turning anemic objects into something that really has class";
 - "One of the nice things about smells is that it's easy for inexperienced people to spot them, even if they don't know enough to evaluate if there's a real problem or to correct them. I've heard of lead developers who will pick a "smell of the week" and ask people to look for the smell and bring it up with the senior members of the team. Doing it one smell at a time is a good way of gradually teaching people on the team to be better programmers".
 
+## Approaches to Do Refactorings
+
+(Image - Diagram about the Types of Refactorings - by Aridio Silva Nov-2020.jpg)
+
 ## Books Recommended to Read (Refactoring, Bad Smells, Code Smells and TDD)
 
        - Refactoring - Improving the Design of Existing Code  by Martin Fowler  (1st Ed 2002 337 pages Code in Java)
