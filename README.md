@@ -21,17 +21,15 @@
 
 ## Books Recommended to Read (Refactoring, Bad Smells, Code Smells and TDD)
 
-- **Refactoring - Improving the Design of Existing Code**
-    
-       - First Edition  by Martin Fowler - 2002 - 337 pages - Examples of code written in Java 
-       - Second Edition by Martin Fowler - 2019 - 455 Pages - Examples of code written in Javascript
-    
-- **Refactoring-  Ruby Edition by Martin Fowler & Kent Beck 481 Pages 2009**      (Code in Ruby)
-- **Refactoring Workbook by William C. Wake  199 pages 2003**                     (Code in Java)
-- **Clean Code: A Handbook of Agile Software by Robert C. Martin 462 pages 2009** (Code in Ruby)
-- **Test-Driven Development By Example by Kent Beck - 137 pages 2002**            (Code in Java)
-- **Extreme Programming Explored by William C. Wake 159 pages - 2000**            (Code in Java)
-- **Extreme Programming Installed  by Ron Jeffries and At all - 329 Pages 2000**  (Code in Java) 
-- **Agile Modeling: Effective Practices for XP & UML by S.Ambler 402 pages 2002**
+       - Refactoring - Improving the Design of Existing Code  by Martin Fowler   
+              - 1st Edition  2002 - 337 pages - Code in Java 
+              - 2nd Edition  2019 - 455 Pages - Code in Javascript
+       - Refactoring-  Ruby Edition by Martin Fowler & Kent Beck 481 Pages 2009 (Code in Ruby)
+       - Refactoring Workbook by William C. Wake  199 pages 2003 (Code in Java)
+       - Clean Code: A Handbook of Agile Software by Robert C. Martin 462 pages 2009 (Code in Ruby)
+       - Test-Driven Development By Example by Kent Beck - 137 pages 2002 (Code in Java)
+       - Extreme Programming Explored by William C. Wake 159 pages - 2000 (Code in Java)
+       - Extreme Programming Installed  by Ron Jeffries and At all - 329 Pages 2000 (Code in Java) 
+       - Agile Modeling: Effective Practices for XP & UML by S.Ambler 402 pages 2002
     
     
